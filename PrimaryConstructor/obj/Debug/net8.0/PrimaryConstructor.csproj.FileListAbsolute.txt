@@ -1,0 +1,14 @@
+D:\.NetConference\C#12Features\PrimaryConstructor\obj\Debug\net8.0\PrimaryConstructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetConference\C#12Features\PrimaryConstructor\obj\Debug\net8.0\PrimaryConstructor.AssemblyInfoInputs.cache
+D:\.NetConference\C#12Features\PrimaryConstructor\obj\Debug\net8.0\PrimaryConstructor.AssemblyInfo.cs
+D:\.NetConference\C#12Features\PrimaryConstructor\obj\Debug\net8.0\PrimaryConstructor.csproj.CoreCompileInputs.cache
+D:\.NetConference\C#12Features\PrimaryConstructor\bin\Debug\net8.0\PrimaryConstructor.exe
+D:\.NetConference\C#12Features\PrimaryConstructor\bin\Debug\net8.0\PrimaryConstructor.deps.json
+D:\.NetConference\C#12Features\PrimaryConstructor\bin\Debug\net8.0\PrimaryConstructor.runtimeconfig.json
+D:\.NetConference\C#12Features\PrimaryConstructor\bin\Debug\net8.0\PrimaryConstructor.dll
+D:\.NetConference\C#12Features\PrimaryConstructor\bin\Debug\net8.0\PrimaryConstructor.pdb
+D:\.NetConference\C#12Features\PrimaryConstructor\obj\Debug\net8.0\PrimaryConstructor.dll
+D:\.NetConference\C#12Features\PrimaryConstructor\obj\Debug\net8.0\refint\PrimaryConstructor.dll
+D:\.NetConference\C#12Features\PrimaryConstructor\obj\Debug\net8.0\PrimaryConstructor.pdb
+D:\.NetConference\C#12Features\PrimaryConstructor\obj\Debug\net8.0\PrimaryConstructor.genruntimeconfig.cache
+D:\.NetConference\C#12Features\PrimaryConstructor\obj\Debug\net8.0\ref\PrimaryConstructor.dll

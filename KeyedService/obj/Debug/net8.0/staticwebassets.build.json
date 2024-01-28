@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eY5O+pGDZeTt6WE1DYxztTybl7pnbbrvOQNY7k8p0dA=",
+  "Source": "KeyedService",
+  "BasePath": "_content/KeyedService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

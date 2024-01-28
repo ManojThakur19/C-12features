@@ -1,0 +1,14 @@
+D:\.NetConference\C#12Features\CollectionExpressions\bin\Debug\net8.0\CollectionExpressions.exe
+D:\.NetConference\C#12Features\CollectionExpressions\bin\Debug\net8.0\CollectionExpressions.deps.json
+D:\.NetConference\C#12Features\CollectionExpressions\bin\Debug\net8.0\CollectionExpressions.runtimeconfig.json
+D:\.NetConference\C#12Features\CollectionExpressions\bin\Debug\net8.0\CollectionExpressions.dll
+D:\.NetConference\C#12Features\CollectionExpressions\bin\Debug\net8.0\CollectionExpressions.pdb
+D:\.NetConference\C#12Features\CollectionExpressions\obj\Debug\net8.0\CollectionExpressions.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetConference\C#12Features\CollectionExpressions\obj\Debug\net8.0\CollectionExpressions.AssemblyInfoInputs.cache
+D:\.NetConference\C#12Features\CollectionExpressions\obj\Debug\net8.0\CollectionExpressions.AssemblyInfo.cs
+D:\.NetConference\C#12Features\CollectionExpressions\obj\Debug\net8.0\CollectionExpressions.csproj.CoreCompileInputs.cache
+D:\.NetConference\C#12Features\CollectionExpressions\obj\Debug\net8.0\CollectionExpressions.dll
+D:\.NetConference\C#12Features\CollectionExpressions\obj\Debug\net8.0\refint\CollectionExpressions.dll
+D:\.NetConference\C#12Features\CollectionExpressions\obj\Debug\net8.0\CollectionExpressions.pdb
+D:\.NetConference\C#12Features\CollectionExpressions\obj\Debug\net8.0\CollectionExpressions.genruntimeconfig.cache
+D:\.NetConference\C#12Features\CollectionExpressions\obj\Debug\net8.0\ref\CollectionExpressions.dll

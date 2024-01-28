@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "TENIGBn0ic3se5mCdPncK0DnkgOrdzl5ewYp5BC48NyXGJxMlJP4ch5Vz2kXLy1cHHDYtuwHPb8w4WGgfxKAKw==",
+  "success": true,
+  "projectFilePath": "D:\\.NetConference\\C#12Features\\KeyedService\\KeyedService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manoj.thakur\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\manoj.thakur\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\manoj.thakur\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\manoj.thakur\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\manoj.thakur\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\manoj.thakur\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
